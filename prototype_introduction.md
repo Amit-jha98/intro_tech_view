@@ -38,7 +38,7 @@
 
 ---
 
-## Executive Summary {#summary-1}
+## Summary {summary-1}
 
 This document presents a comprehensive solution to the challenge of developing artificial intelligence and machine learning models for predicting time-varying error patterns between uploaded (broadcast) and International Civil Aviation Organization (ICAO) Standards and Recommended Practices (ICD)-based modeled values of satellite clock biases and ephemeris parameters for navigation satellites operating in both Geostationary Earth Orbit (GEO)/Geosynchronous Orbit (GSO) and Medium Earth Orbit (MEO) configurations.
 
@@ -1749,4 +1749,5 @@ This solution uniquely addresses the fundamental trade-off between data-driven f
 **Team Leader Contact**: Sumitkr95078@gmail.com
 
 ---
+
 
